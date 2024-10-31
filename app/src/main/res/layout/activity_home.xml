@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity = "center_horizontal"
+    tools:context=".HomeActivity">
+
+
+
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/accfragment"
+        >
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/menufragment"
+        >
+
+    </FrameLayout>
+
+
+
+
+
+
+
+
+
+
+    <TextView
+
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+
+        android:text = "@string/Welcome"
+        android:id = "@+id/welcome"
+        >
+
+
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username Placeholder"
+        />
+
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text = "@string/home"
+            android:id = "@+id/homeButton"
+            android:layout_gravity = "bottom"
+            android:background="@color/boja"
+            >
+
+        </Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text = "@string/menu"
+            android:id = "@+id/menuButton"
+            android:layout_gravity = "bottom"
+            android:background="@color/boja"
+            >
+
+        </Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="12sp"
+            android:text = "@string/account"
+            android:id = "@+id/accountButton"
+            android:layout_gravity = "bottom"
+            android:background="@color/boja"
+            >
+
+        </Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text = "@string/bag"
+            android:id = "@+id/bagButton"
+            android:layout_gravity = "bottom"
+            android:background="@color/boja"
+            >
+
+        </Button>
+
+
+    </LinearLayout>
+
+</LinearLayout>

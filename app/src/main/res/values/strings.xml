@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="USERNAME">USERNAME</string>
+    <string name="LOGINPASS">PASSWORD</string>
+    <string name="REGISTEREMAIL">EMAIL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="Welcome">Welcome!</string>
+
+    <string name="home">home</string>
+    <string name="menu">menu</string>
+    <string name="account">account</string>
+    <string name="bag">bag</string>
+
+    <string name="purchase_his">purchase history</string>
+    <string name="my_acc">my account</string>
+    <string name="useremail">user@gmail.com</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="END">END SESSION</string>
+    <string name="placeholder">______________</string>
+    <string name="BACK">BACK</string>
+    <string name="this_list_is_empty">lista je prazna. </string>
+    <string name="add">add</string>
+    <string name="status">status</string>
+    <string name="price">price</string>
+    <string name="date">date</string>
+
+</resources>

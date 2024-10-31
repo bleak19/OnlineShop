@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_item.xml" value="0.1" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_password.xml" value="0.11775362318840579" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_profile.xml" value="0.1953125" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_purchase.xml" value="0.11775362318840579" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/activity_slusalice.xml" value="0.358695652173913" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/fragment_menu.xml" value="0.2708333333333333" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/fragment_register.xml" value="0.2" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/model.xml" value="0.18802083333333333" />
+        <entry key="..\:/faks/piars/OnlineShop/app/src/main/res/layout/prodani_artikli.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18802083333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
